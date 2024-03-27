@@ -13,13 +13,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
 </h1>
 
+<!--
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1U4zPEsscQYwFvQ0yXxFDy9_Luide8EGP" width="500" height="300"/>
 </div>
+-->
 
 <h1 align="center">
  Welcome to Federica Graziano's GitHub Profile!
 </h1>
+
 
 
 ### :woman_technologist: About Me :
