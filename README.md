@@ -26,10 +26,10 @@
 
 
 ### :woman_technologist: About Me :
-I'm an aerospace engineer 🚀 with a broad experience in the industry and a strong curious attitude 🌞
+I'm an aerospace engineer 🚀 with a broad experience in the industry and a strong curiosity 🌞
 I love learning new things, in particolar in the scientic field and I'm passionate of astrophiscs. I have always been interested in other cultures, foreign languages and I love travelling 🗺️
 
-- 👩‍💼 In the last years I worked in the maintenance field for rail freight 🚆, taking care of the correct execution of maintenance activities, monitoring faults in diagnostic data and making predictive maintenance. I also followed courses relating to diagnostics and prognostics in the maintenance of industrial systems at the Polytechnic of Milan.
+- 👩‍💼 In the last years I worked in the maintenance field for rail freight 🚆, taking care of the correct execution of maintenance activities, monitoring faults in diagnostic data and carrying out predictive maintenance. I also attended courses relating to diagnostics and prognostics in the maintenance for industrial systems at the Polytechnic of Milan.
 
 - 👩‍🎓 I recently attended an intensive course on Data Science at Constructor Learning, learnig new topics on ML and AI:
   - Python, Web Scraping, APIs
@@ -40,11 +40,11 @@ I love learning new things, in particolar in the scientic field and I'm passiona
   - ML Engineering - SQL, Docker, CI/CD, serving models, MLFlow
   - Explainable AI - SHAP, GradCam, Lime, etc
 
-- 💡 I'm looking for interesting job in ML and AI, in particular in the engineering field, maintenance filed or physics
+- 💡 I'm looking for interesting job in ML and AI, in particular in the engineering field, maintenance filed or physics. 
   
 - 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/federica-graziano-b2054b18a)
   
-- ⚡ Fun fact: I love Japanese culture and food! 🗾 When I travelled in Japan I tried all the food specialities 🍜 and I try to replicate them at home. I have also fun in making origami!💮
+- ⚡ Fun fact: I love Japanese culture and food! 🗾 When I travelled to Japan I tried all the food specialities 🍜 and I like to replicate them at home. I have also fun in making origami!💮
 
 
 ### :hammer_and_wrench: Coding languages and Tools :
