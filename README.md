@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/federica-graziano-b2054b18a">
+  <a href="https://www.linkedin.com/in/federicagraziano1989/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -42,7 +42,7 @@ I love learning new things, in particolar in the scientic field and I'm passiona
 
 - 💡 I'm looking for interesting job in ML and AI, in particular in the engineering field, maintenance filed or physics. 
   
-- 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/federica-graziano-b2054b18a)
+- 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federicagraziano1989/)
   
 - ⚡ Fun fact: I love Japanese culture and food! 🗾 When I travelled to Japan I tried all the food specialities 🍜 and I like to replicate them at home. I have also fun in making origami!💮
 
