@@ -26,26 +26,30 @@
 
 
 ### :woman_technologist: About Me :
-I'm an aerospace engineer 🚀 with a broad experience in the industry and a strong curiosity 🌞
-I love learning new things, in particolar in the scientic field and I'm passionate of astrophiscs. I have always been interested in other cultures, foreign languages and I love travelling 🗺️
+I'm an aerospace engineer 🚀 with extensive industry experience and a voracious curiosity 🌞. I thrive on learning new things, particularly in the scientific realm, and I'm deeply passionate about astrophysics. My fascination with diverse cultures, foreign languages, and traveling 🗺️ has always been a driving force in my life.
 
-- 👩‍💼 In the last years I worked in the maintenance field for rail freight 🚆, taking care of the correct execution of maintenance activities, monitoring faults in diagnostic data and carrying out predictive maintenance. I also attended courses relating to diagnostics and prognostics in the maintenance for industrial systems at the Polytechnic of Milan.
+### 👩‍💼 Professional Background:
+In recent years, I've specialized in the maintenance field for rail freight 🚆, ensuring the smooth execution of maintenance activities and leveraging diagnostic data for predictive maintenance. I've honed my skills through courses at the Polytechnic of Milan, focusing on diagnostics and prognostics in industrial systems.
 
-- 👩‍🎓 I recently attended an intensive course on Data Science at Constructor Learning, learnig new topics on ML and AI:
-  - Python, Web Scraping, APIs
-  - Visualization (incl. Interactive) with Python, Plotly, Streamlit
-  - Machine Learning - scikit-learn, regression, anomaly detection, clustering, ensemble methods
-  - Deep Learning - Tensorflow, Keras, neural networks, CNNs, transfer learning, image segmentation, object detection
-  - Natural Language Processing - text classification, summarization, clustering and similarity, machine translation, sentiment analysis, search and information retrieval, parsing and named entity recognition, classical NLP and transformers
-  - ML Engineering - SQL, Docker, CI/CD, serving models, MLFlow
-  - Explainable AI - SHAP, GradCam, Lime, etc
+### 👩‍🎓 Recent Endeavors:
+I've embarked on an intensive Data Science course at Constructor Learning, delving into various ML and AI topics:
 
-- 💡 I'm looking for interesting job in ML and AI, in particular in the engineering field, maintenance filed or physics. 
+- Python, Web Scraping, APIs
+- Visualization with Python, Plotly, Streamlit
+- Machine Learning: scikit-learn, regression, anomaly detection, clustering, ensemble methods
+- Deep Learning: TensorFlow, Keras, neural networks, CNNs, transfer learning, image segmentation, object detection
+- Natural Language Processing: text classification, summarization, sentiment analysis, etc.
+- ML Engineering: SQL, Docker, CI/CD, model serving, MLFlow
+- Explainable AI: SHAP, GradCam, Lime, etc.
+
+### 💡 Career Aspirations:
+I'm eager to apply my ML and AI expertise in engineering, maintenance, or physics-related roles. I'm actively seeking opportunities that allow me to contribute meaningfully in these domains 
   
-- 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federicagraziano1989/)
+### 📫 Connect with Me:
+You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federicagraziano1989/)
   
-- ⚡ Fun fact: I love Japanese culture and food! 🗾 When I travelled to Japan I tried all the food specialities 🍜 and I like to replicate them at home. I have also fun in making origami!💮
-
+### ⚡ Fun Fact:
+I have a deep appreciation for Japanese culture and cuisine! 🗾 During my travels to Japan, I indulged in all the culinary delights 🍜 and even enjoy recreating them at home. I also find joy in the art of origami! 💮
 
 ### :hammer_and_wrench: Coding languages and Tools :
 <div>
